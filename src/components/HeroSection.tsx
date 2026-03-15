@@ -71,7 +71,7 @@ const HeroSection = () => {
               <span className="font-mono-label text-primary mb-4 block">// PORTFOLIO_V1.0</span>
 
               <h1 className="text-6xl md:text-8xl lg:text-[10vw] font-bold tracking-tighter uppercase leading-[0.85]">
-                <span className="text-stroke block">KISHORE</span>
+                <span className="text-stroke block">KISHORE R</span>
               </h1>
 
               <motion.p
