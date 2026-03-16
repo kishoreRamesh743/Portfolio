@@ -5,7 +5,7 @@ const contacts = [
   { icon: Mail, label: "[EMAIL]", value: "kishore21004@gmail.com", href: "mailto:kishore21004@gmail.com" },
   { icon: Phone, label: "[TEL]", value: "+91 7708627921", href: "tel:+917708627921" },
   { icon: MapPin, label: "[LOC]", value: "Cuddalore, Tamil Nadu, India", href: "#" },
-  { icon: Linkedin, label: "[LNKD]", value: "LinkedIn Profile", href: "#" },
+  { icon: Linkedin, label: "[LNKD]", value: "LinkedIn Profile", href: "https://www.linkedin.com/in/kishore-r-089a62267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
   { icon: Github, label: "[GH]", value: "GitHub Profile", href: "#" },
 ];
 
