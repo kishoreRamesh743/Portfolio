@@ -25,6 +25,15 @@ const projects = [
     tags: ["NumPy", "Matplotlib", "Seaborn", "Pandas"],
     accent: "primary",
   },
+  {
+    id: "PRJ_03",
+    title: "Nutrition & Fitness AI Chatbot",
+    subtitle: "Health Analysis • Diet Planning • Fitness Insights",
+    description: "An AI-powered chatbot built using Streamlit that analyzes user fitness data such as height, weight, age, activity level, and diet to provide personalized nutrition guidance, obesity level prediction, and fitness recommendations. It helps users understand their health status and improve lifestyle choices using data-driven insights.",
+    tags: ["Python", "AI", "Streamlit", "Machine Learning", "Health"],
+    accent: "success",
+    link: "http://localhost:8501/#nutrition-and-fitness-ai-chatbot"
+  }
 ];
 
 const ProjectsSection = () => (
